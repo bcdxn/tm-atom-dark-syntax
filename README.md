@@ -10,7 +10,8 @@ I wanted the default color-scheme found in GitHub's new editor Atom... in Sublim
 #### Extra Credit
 
 1. Install the [soda theme](https://github.com/buymeasoda/soda-theme/) because it looks awesome. 
-2. Atom uses 'Monaco' font by default (Although 'Source Code Pro Semibold' also looks great)
+2. Atom uses 'Monaco' font by default (Although 'Source Code Pro Semibold' also looks great
+
 ##### Example User Preferences
 ```json
 {
