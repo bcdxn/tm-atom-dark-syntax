@@ -19,26 +19,13 @@
   <string>atom.dark.syntax</string>
   <key>colorSpaceName</key>
   <string>sRGB</string>
-  <key>gutterSettings</key>
-  <dict>
-    <key>background</key>
-    <string>#292c2f</string>
-    <key>divider</key>
-    <string>#3a3432</string>
-    <key>foreground</key>
-    <string>#c5c8c6</string>
-    <key>selectionBackground</key>
-    <string>#444444</string>
-    <key>selectionForeground</key>
-    <string>#807d7c</string>
-  </dict>
   <key>settings</key>
   <array>
     <dict>
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#1d1f21</string>
+        <string>#292c2f</string>
         <key>caret</key>
         <string>#a5a2a2</string>
         <key>foreground</key>
@@ -46,9 +33,20 @@
         <key>invisibles</key>
         <string>#c5c8c6</string>
         <key>lineHighlight</key>
-        <string>#3a3432</string>
+        <string>#4d4d4d</string>
         <key>selection</key>
         <string>#444444</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Source base background</string>
+      <key>scope</key>
+      <string>text, source</string>
+      <key>settings</key>
+      <dict>
+        <key>background</key>
+        <string>#1d1f21</string>
       </dict>
     </dict>
     <dict>
