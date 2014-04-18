@@ -25,7 +25,7 @@
       <key>settings</key>
       <dict>
         <key>background</key>
-        <string>#292c2f</string>
+        <string>#1d1f21</string>
         <key>caret</key>
         <string>#a5a2a2</string>
         <key>foreground</key>
@@ -33,20 +33,11 @@
         <key>invisibles</key>
         <string>#c5c8c6</string>
         <key>lineHighlight</key>
-        <string>#4d4d4d</string>
+        <string>#3a3a3a</string>
         <key>selection</key>
         <string>#444444</string>
-      </dict>
-    </dict>
-    <dict>
-      <key>name</key>
-      <string>Source base background</string>
-      <key>scope</key>
-      <string>text, source</string>
-      <key>settings</key>
-      <dict>
-        <key>background</key>
-        <string>#1d1f21</string>
+        <key>gutter</key>
+        <string>#292c2f</string>
       </dict>
     </dict>
     <dict>
@@ -521,6 +512,17 @@
       <dict>
         <key>foreground</key>
         <string>#62B1FE</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>Selector CSS punctuation</string>
+      <key>scope</key>
+      <string>meta.selector.css entity.other.attribute-name punctuation</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#FFD2A7</string>
       </dict>
     </dict>
     <dict>
