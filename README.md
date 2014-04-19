@@ -35,3 +35,5 @@ I wanted the default color-scheme found in GitHub's new editor Atom... in Sublim
   "translate_tabs_to_spaces": true
 }
 ```
+
+![Screenshot](https://31.media.tumblr.com/9f2c58d82ba8096d0bf4b78127d3287c/tumblr_inline_n49afkfE651sx0sfq.png)
