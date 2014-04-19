@@ -55,7 +55,7 @@
       <key>name</key>
       <string>Comment</string>
       <key>scope</key>
-      <string>entity</string>
+      <string>comment</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
